@@ -52,6 +52,9 @@ extern "C" {
 
 /* Function prototypes--------------------------------------------------------*/
 
+void wifi_init_sta(void);
+
+
 #ifdef __cplusplus
 }
 #endif
